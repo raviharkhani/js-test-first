@@ -1,0 +1,48 @@
+1.)
+Function is block of code that we can reuse the code in our running project any time by calling the function.
+
+2.)
+One line of code is called as Statement.
+Ex: var name = "ravi";
+
+3.)
+To perform repeted task for perticular numbers of time then we use loops.
+Ex:
+var sum;
+for(i=o; i<=1; i++){
+consloe.log(sum + i);
+}
+
+4.)
+Variable is a container in which we can store the value in diffrent datatypes.
+
+5.)
+var numberOfStudent = 13;
+
+6.)
+premetive Datatype
+ String
+ number
+ booleans
+ symbol
+ null
+ undefind
+ bigint
+
+Special Datatype
+object
+
+7.)
+1.typeof
+2.null
+
+8.)
+	function square(){
+          consloe.log(square+square);
+        }
+
+9.)
+It returns the whole element which has class.
+
+10.)
+When there are many properties or parameters of one variable that time we can use object.
